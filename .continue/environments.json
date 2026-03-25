@@ -1,0 +1,7 @@
+[
+  {
+    "install": "echo 'No installation required'",
+    "start": "echo 'Simple repository - no server to start'",
+    "resourceSize": "small"
+  }
+]
